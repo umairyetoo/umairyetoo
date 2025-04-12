@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umairyetoo&show_icons=true&theme=tokyonight&count_private=true" height="200"/>
   <img src="https://streak-stats.demolab.com?user=umairyetoo&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairyetoo&layout=compact&theme=tokyonight" height="200"/>
 </p>
 <br/>
 
