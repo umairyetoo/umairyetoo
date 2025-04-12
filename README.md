@@ -20,4 +20,4 @@
 
 **Where to find me**
 
-[![Github](https://github.com/umairjyetoo/umairjyetoo/blob/main/GithubFind.svg)](https://github.com/umairjyetoo)  [![Medium](https://github.com/umairjyetoo/umairjyetoo/blob/main/Medium.svg)](https://umairyetoo.medium.com/)
+[![Github](https://github.com/umairyetoo/umairyetoo/blob/main/GithubFind.svg)](https://github.com/umairyetoo)  [![Medium](https://github.com/umairjyetoo/umairjyetoo/blob/main/Medium.svg)](https://umairyetoo.medium.com/) [![LinkedIn](https://github.com/umairyetoo/umairyetoo/blob/main/LinkedIn.svg)](www.linkedin.com/in/umair-yatoo)
