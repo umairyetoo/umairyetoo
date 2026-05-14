@@ -2,11 +2,11 @@
 
 
 **Hey👋 Nice to see you,**
-- 🧑 I’m Umair Jan Yetoo. I'm a Backend Developer. I have around 5+ years of development experience in Backend Development. 
+- 🧑 I’m Umair Jan Yetoo. I'm a Senior Software Engineer. I have around 7+ years of development experience. 
 - 👀 I take great care in the experience, architecture, and code quality of the things I build.
-- 🌱 I’m currently learning AI as a skill and many more skills to get the knowledge of every aspect of development.
+- 🌱 I’m currently learning AI as a skill and many more skills to gain knowledge of every aspect of development.
 - 💞️ I’m looking to collaborate on any open source project(s).
-- 📫 You can reach out to me on umairyetoo@gmail.com
+- 📫 You can reach out to me at umairyetoo@gmail.com
 
 <br/>
 
