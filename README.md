@@ -17,17 +17,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairyetoo&show_icons=true&theme=tokyonight&count_private=true" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=umairyetoo&theme=tokyonight" height="200"/>
-</p>
-<br/>
-
-
----
-
 **Technologies and Tools**
 
 ![NodeJs](https://github.com/umairjyetoo/umairjyetoo/blob/main/NodeJs.svg) ![Github Actions](https://github.com/umairjyetoo/umairjyetoo/blob/main/Github%20Actions.svg) ![Git](https://github.com/umairjyetoo/umairjyetoo/blob/main/Git.svg) ![NestJs](https://github.com/umairjyetoo/umairjyetoo/blob/main/NestJs.svg) ![MongoDB](https://github.com/umairjyetoo/umairjyetoo/blob/main/MongoDb.svg) ![NPM](https://github.com/umairjyetoo/umairjyetoo/blob/main/Npm.svg) ![TypeScript](https://github.com/umairjyetoo/umairjyetoo/blob/main/Typescript.svg) ![Docker](https://github.com/umairjyetoo/umairjyetoo/blob/main/docker.svg) ![JavaScript](https://github.com/umairjyetoo/umairjyetoo/blob/main/JS.svg) ![VsCode](https://github.com/umairjyetoo/umairjyetoo/blob/main/VSCODE.svg)
