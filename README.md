@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑 I'm Umair Jan Yetoo — a Senior Software Engineer building scalable systems in Node.js, NestJS, <br>  and microservices architecture.<br>👀 I care about clean architecture, event-driven design, and code that's still maintainable a year from now.<br>🌱 Currently deepening my skills in AI/agentic pipelines (LangGraph) alongside my core backend work.<br>💞️ Open to collaborating on open-source backend, DevOps, or AI-tooling projects.<br>📫 Reach me at umairyetoo@gmail.com
+🧑 I'm Umair Jan Yetoo — a Software Engineer building scalable systems in Node.js, NestJS, <br>  and microservices architecture.<br>👀 I care about clean architecture, event-driven design, and code that's still maintainable a year from now.<br>🌱 Currently deepening my skills in AI/agentic pipelines (LangGraph) alongside my core backend work.<br>💞️ Open to collaborating on open-source backend, DevOps, or AI-tooling projects.<br>📫 Reach me at umairyetoo@gmail.com
 
 
 ## 🌐 Socials:
